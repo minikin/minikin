@@ -1,5 +1,3 @@
-### Sasha Prokhorekno
-
 - As a Software Engineer, I have more than a decade of experience in software engineering and in particular, about eight years in the mobile ecosystem.
 
 - I've been working for very different products, different markets, and various technologies. 
