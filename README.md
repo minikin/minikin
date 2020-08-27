@@ -1,16 +1,16 @@
-### Hi there 👋
+### Sasha Prokhorekno
 
-<!--
-**minikin/minikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- As a Software Engineer, I have more than a decade of experience in software engineering and in particular, about eight years in the mobile ecosystem.
 
-Here are some ideas to get you started:
+- I've been working for very different products, different markets, and various technologies. 
+For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and start-ups on early stages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I developed and distributed through different channels probably more than twenty mobile apps and games.
+
+- Sometimes things that I've done [get attention from people](https://apps.apple.com/de/app/official-cookidoo-app/id714004506) and even collect some awards like [Red Dot](https://www.red-dot.org/project/thermomix-tm6-41286) or [Golden Drum](https://www.behance.net/gallery/18282261/BRAHM-Device-Application).
+
+- Specialties: Flutter, Dart, iOS, Swift, SwiftUI.
+
+- Interests: Rust, Functional Programming, Machine Learning and Data Science.
+
+- You can find me on Twitter [@minikin](https://twitter.com/minikin).
