@@ -13,6 +13,6 @@ For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
 
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minikin&show_icons=true&layout=compact&hide=stars" />
-</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=minikin&show_icons=true&layout=compact&hide=stars" />
+
