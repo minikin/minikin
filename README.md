@@ -12,7 +12,3 @@ For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and
 - Interests: Rust, Functional Programming, Machine Learning and Data Science.
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=minikin&show_icons=true&layout=compact&hide=stars" />
-
