@@ -9,6 +9,6 @@ For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and
 
 - Specialties: Flutter, Dart, Swift and SwiftUI.
 
-- Interests: Rust, Go, Functional Programming, Machine Learning and Data Science.
+- Interests: Rust, Functional Programming, Machine Learning and Data Science.
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
