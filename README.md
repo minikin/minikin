@@ -6,8 +6,8 @@
 
 - Sometimes things that I've done [get attention from people](https://apps.apple.com/de/app/official-cookidoo-app/id714004506) and even collect some awards like [Red Dot](https://www.red-dot.org/project/thermomix-tm6-41286) or [Golden Drum](https://www.behance.net/gallery/18282261/BRAHM-Device-Application).
 
-- Specialties: Flutter, Dart, Swift, and SwiftUI.
+- Specialties: Flutter, Dart, Swift, SwiftUI abd Rust.
 
-- Interests: Rust, Functional Programming, Machine Learning, and Data Science.
+- Interests: Functional Programming, Machine Learning, and Data Science.
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
