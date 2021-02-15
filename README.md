@@ -1,6 +1,6 @@
 - As a Software Engineer, I have more than a decade of experience in software engineering.
 
-- I've been working on very different products, different markets, and various technologies. For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and start-ups in the early stages.
+- I've been working on very different products, different markets, and various technologies. For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and start-ups on different stages.
 
 - I developed and distributed through different channels more than twenty mobile apps and games, delivered numerous IoT and web services.
 
