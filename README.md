@@ -8,6 +8,6 @@
 
 - Specialties: Flutter, Dart, Swift, and Rust.
 
-- Interests: Functional Programming, Machine Learning, and Data Science.
+- Interests: [Zig](https://github.com/ziglang), Functional Programming, Machine Learning, and Data Science.
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
