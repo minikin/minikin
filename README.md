@@ -1,4 +1,4 @@
-- I have more than a decade of experience in software engineering and leading teams 
+- I have more than a decade of experience in software engineering
 
 - I've been working on very different products, different markets, and various technologies. For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and start-ups on different stages.
 
@@ -8,6 +8,6 @@
 
 - Specialties: Flutter, Dart, Swift, and Rust.
 
-- Interests: [Zig](https://github.com/ziglang), Functional Programming, Machine Learning, and Data Science.
+- Interests: Functional Programming, Distributed Systems, Blockchain, Machine Learning, and Data Science.
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
