@@ -6,6 +6,8 @@
 
 - Sometimes things that I've done [get attention from people](https://apps.apple.com/de/app/official-cookidoo-app/id714004506) and even collect some awards like [Red Dot](https://www.red-dot.org/project/thermomix-tm6-41286) or [Golden Drum](https://www.behance.net/gallery/18282261/BRAHM-Device-Application).
 
+- I consider myself as one of the early adopters of Flutter. I’ve been using Flutter for more than three years now.
+
 - Specialties: Flutter, Dart, Swift, and Rust.
 
 - Interests: Functional Programming, Distributed Systems, Blockchain, Machine Learning, and Data Science.
