@@ -8,8 +8,8 @@
 
 - I’ve been using Flutter for more than three years now, so I consider myself as one of the early adopters of Flutter.
 
-- Specialties: Flutter, Dart, Swift, and Rust.
+- Specialties: Cross-platform development with Flutter/Dart and web services development with Rust.
 
-- Interests: Functional Programming, Distributed Systems, Blockchain, Machine Learning, and Data Science.
+- Interests: Web3, Distributed Systems, Blockchain, and Machine Learning.
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
