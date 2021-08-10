@@ -10,6 +10,6 @@
 
 - __Specialties:__ Cross-platform development with **Flutter/Dart** and web services development with **Rust**.
 
-- __Interests:__ Web3, Distributed Systems, Blockchain, and Machine Learning.
+- __Interests:__ Web3, Distributed Systems, Blockchain, Functional Programming, and Machine Learning.
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
