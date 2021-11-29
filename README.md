@@ -10,6 +10,6 @@
 
 - __Specialties:__ Cross-platform development with **Flutter & Dart**, native development for Apple’s OSes with **Swift**, and web service and system development with **Rust**.
 
-- __Interests:__ Web3, Distributed Systems, Blockchain, Functional Programming, VR/AR and Machine Learning.
+- __Interests:__ Web3, Distributed Systems, Blockchain, Functional Programming, VR/AR, and Machine Learning.
 
 - You can find me on Twitter [@minikin](https://twitter.com/minikin).
