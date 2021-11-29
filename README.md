@@ -1,4 +1,4 @@
-- I have more than a decade of experience in software engineering
+- I have more than a decade of experience in software engineering.
 
 - I've been working on very different products, different markets, and various technologies. For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and start-ups on different stages.
 
