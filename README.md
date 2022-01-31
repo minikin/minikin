@@ -6,7 +6,7 @@
 
 - Sometimes things that I've done [get attention from people](https://apps.apple.com/de/app/official-cookidoo-app/id714004506) and even collect some awards like [Red Dot](https://www.red-dot.org/project/thermomix-tm6-41286) or [Golden Drum](https://www.behance.net/gallery/18282261/BRAHM-Device-Application).
 
-- I’ve been using Flutter for more than three years now, so I consider myself as one of the early adopters of Flutter.
+- I’ve been using Flutter for more than four years now, so I consider myself as one of the early adopters of Flutter.
 
 - __Specialties:__ Cross-platform development with **Flutter & Dart**, web service and system development with **Rust**, and native development for Apple’s OSes with **Swift**.
 
