@@ -1,3 +1,13 @@
+## Ukraine
+
+If you want to help Ukraine in the fight against pure evil, here is a simple way to do so:
+
+[https://helpukrainewin.org](https://helpukrainewin.org)
+
+![kids](https://i.ibb.co/wQTQ2bV/kids.jpg)
+
+## About 
+
 - I have more than a decade of experience in software engineering.
 
 - I've been working on very different products, different markets, and various technologies. For high-profile clients like PepsiCo, Philip Morris International, Vorwerk, and start-ups on different stages.
