@@ -1,10 +1,7 @@
 ## Ukraine
 
-If you want to help Ukraine in the fight against pure evil, here is a simple way to do so:
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-[https://helpukrainewin.org](https://helpukrainewin.org)
-
-![kids](https://i.ibb.co/wQTQ2bV/kids.jpg)
 
 ## About 
 
