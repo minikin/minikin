@@ -12,7 +12,7 @@
 
 - I've been using Flutter for more than four years now, so I consider myself one of the early adopters of Flutter.
 
-- __Specialties:__ Cross-platform development with **Flutter & Dart**, web service and system development with **Rust**, and native development for Apple's OSes with **Swift**.
+- __Specialties:__ Cross-platform development with **Flutter & Dart**, web services and system development with **Rust**, and native development for Apple's OSes with **Swift**.
 
 - __Interests:__ Web3, Distributed Systems, Blockchain, Functional Programming, VR/AR, and Machine Learning.
 
