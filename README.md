@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 # About 
 
 - I have more than a decade of experience in software engineering and many years of leading and building teams of different sizes.
@@ -8,7 +6,7 @@
 
 - I developed, led, architect, and distributed over twenty native, cross-platform apps and games, numerous web apps, web services, and IoT products.
 
-- Sometimes, things that I've done [get attention from people](https://apps.apple.com/de/app/official-cookidoo-app/id714004506) and even collect some awards like [Red Dot](https://www.red-dot.org/project/thermomix-tm6-41286) or [Golden Drum](https://site.aimbulance.com/en/project/brahm-brand-health-monitor).
+- Sometimes, things that I've done [get attention from people](https://apps.apple.com/de/app/official-cookidoo-app/id714004506) and even collect some awards like [Red Dot](https://www.red-dot.org/project/thermomix-tm6-41286) or [Golden Drum](https://www.youtube.com/watch?v=87IOP8ctm6Q).
 
 - I've been building products with Flutter that millions of people use for more than five years now, so I'm one of the early adopters of Flutter.
 
