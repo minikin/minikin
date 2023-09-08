@@ -2,7 +2,7 @@
 
 - I have over a decade of experience in software engineering and many years of leading and building teams of different sizes.
 
-- I've worked on very different products, markets, and technologies, for high-profile clients like PepsiCo, Philip Morris International, Liberty Global, Vorwerk, and start-ups at various stages.
+- I've worked on very different products, markets, and technologies for high-profile clients like PepsiCo, Philip Morris International, Liberty Global, Vorwerk, and start-ups at various stages.
 
 - I developed, led, architect, and distributed over twenty native, cross-platform apps and games, numerous web apps, web services, and tools.
 
