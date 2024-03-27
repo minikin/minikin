@@ -10,4 +10,4 @@
 
 - __Specialties:__  Web services and system development with **Rust**, cross-platform development with **Flutter & Dart**, and native development for Apple's OSes with **Swift**.
 
-- __Interests:__ Distributed Systems, Functional Programming, VR/AR, and Machine Learning.
+- __Interests:__ Distributed Systems, Web3, AI, Functional Programming and VR/AR.
