@@ -10,4 +10,4 @@
 
 - __Languages:__  Rust, Dart, Swift, and others.
 
-- __Interests:__ Distributed Systems, Web3, AI and VR/AR.
+- __Interests:__ Distributed Systems, Web3, AI, [Mojo](https://www.modular.com/max/mojo) and VR/AR.
