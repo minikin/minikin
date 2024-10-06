@@ -8,6 +8,6 @@ Philip Morris International, Liberty Global, Vorwerk, and numerous startups at d
 
 - Some of my work has garnered [industry recognition](https://apps.apple.com/de/app/die-thermomix-cookidoo-app/id714004506), earning awards such as the [Red Dot Award](https://www.red-dot.org/project/thermomix-tm6-41286)  and [Golden Drum](https://www.youtube.com/watch?v=87IOP8ctm6Q).
 
-- **Languages**: Rust, Dart, Swift.
+- **Languages**: Rust, Dart, and Swift.
 
-- **Interests**: Decentralized and Distributed Systems, Web3, AI, VR/AR.
+- **Interests**: Decentralized and Distributed Systems, Web3, AI, and VR/AR.
