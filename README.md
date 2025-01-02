@@ -1,6 +1,7 @@
 # About
 
-- As a seasoned software engineer with over a decade of experience, I specialize in leading and building dynamic teams of various sizes. 
+- With over a decade of experience, I’m a seasoned software engineer with expertise in developing diverse products and leading dynamic teams of all sizes
+ 
 - My expertise spans a wide range of products, markets, and technologies, including collaborations with high-profile clients like PepsiCo, 
 Philip Morris International, Liberty Global, Vorwerk, and numerous startups at different stages of growth.
 
