@@ -11,4 +11,4 @@ Philip Morris International, Liberty Global, Vorwerk, and numerous startups at d
 
 - **Languages**: Rust, Dart, and Swift.
 
-- **Interests**: Decentralized and Distributed Systems, Web3, AI, and VR/AR.
+- **Interests**: Mojo, P2P, Decentralized and Distributed Systems and AI.
