@@ -1,11 +1,10 @@
 # About
 
-- With over a decade of experience, I’m a seasoned software engineer with expertise in developing diverse products and leading dynamic teams of all sizes
+- I have over 15 years of experience as a software engineer. During this time, I have built a variety of products and led teams of different sizes.
  
-- My expertise spans a wide range of products, markets, and technologies, including collaborations with high-profile clients like PepsiCo, 
-Philip Morris International, Liberty Global, Vorwerk, and numerous startups at different stages of growth.
+- I have worked on many different products and technologies. My clients have included well-known companies such as PepsiCo, Philip Morris International, Liberty Global, and Vorwerk, as well as several startups at various stages of growth.
 
-- I have architected, developed, and launched numerous native and cross-platform apps and games, various web applications, backend services, IoT projects, and tools.
+- I have architected, built, and launched backend services, libraries, native and cross-platform apps and games, web applications, IoT projects, and tools.
 
 - Some of my work has garnered [industry recognition](https://apps.apple.com/de/app/die-thermomix-cookidoo-app/id714004506), earning awards such as the [Red Dot Award](https://www.red-dot.org/project/thermomix-tm6-41286)  and [Golden Drum](https://www.youtube.com/watch?v=87IOP8ctm6Q).
 
