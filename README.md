@@ -2,7 +2,7 @@
 
 - I have over 15 years of experience as a software engineer. During this time, I have built a variety of products and led teams of different sizes.
  
-- I have worked on many different products and technologies. My clients have included well-known companies such as PepsiCo, Philip Morris International, Liberty Global, and Vorwerk, as well as several startups at various stages of growth.
+- I have worked on many different products and technologies. My clients have included well-known companies such as PepsiCo, Philip Morris International, Liberty Global, and Vorwerk, as well as many startups at various stages of growth.
 
 - I have architected, built, and launched backend services, libraries, native and cross-platform apps and games, web applications, IoT projects, and tools.
 
