@@ -10,4 +10,4 @@
 
 - **Languages**: Rust, Dart, and Swift.
 
-- **Interests**: Mojo, P2P, Decentralized and Distributed Systems and GPU Programming.
+- **Interests**: Mojo, GPU programming, P2P, decentralized and distributed systems.
