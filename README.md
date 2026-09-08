@@ -10,4 +10,4 @@
 
 - **My primary programming languages are** Rust, Dart, and Swift.
 
-- **I'm interested** in Mojo, GPU programming, peer-to-peer technology, and decentralized and distributed systems.
+ - **Recently, I have focused on** AI agent systems where the model is never the only or last line of defense: a governed, LLM-configured backend and UIs; knowledge-graph-grounded insights; verification gates and metrics for AI-written code (author of cargo-crap); and Reinforcement Learning environments for improving frontier coding agents.
