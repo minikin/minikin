@@ -1,6 +1,3 @@
-[![GitHub Roast score card](https://ghfind.com/api/card/mini/minikin?variant=radar)](https://ghfind.com/u/minikin?ref=badge)
-
-
 # About
 
 -  I’m a software engineer with many years of experience. Over the years, I have built a range of products and led teams of different sizes.
