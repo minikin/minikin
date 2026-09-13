@@ -10,4 +10,4 @@
 
 - **My primary programming languages are** Rust, Dart, and Swift.
 
- - **Recently, I have focused on** AI agent systems where the model is never the only or last line of defense: a governed, LLM-configured backend and UIs; knowledge-graph-grounded insights; verification gates and metrics for AI-written code; and Reinforcement Learning environments for improving frontier coding agents.
+- **Recently, I have been working on AI agent systems** that include safeguards beyond the model itself. My work covers governed backends and user interfaces built around large language models, knowledge-graph-based insights, and verification steps and metrics for AI-generated code. I have also built reinforcement learning environments to help coding agents improve.
